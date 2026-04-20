@@ -1,0 +1,178 @@
+(footprint "RESAD1016W63L850D250B_30890021"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Axial Resistor, 10.16 mm pitch, 8.50 mm body length, 2.50 mm body diameter\n\nAxial Resistor package with 10.16 mm pitch (lead spacing), 0.63 mm lead diameter, 8.50 mm body length and 2.50 mm body diameter")
+	(property "Reference" "REF**"
+		(at 0 -1.885 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "70c504d0-64d0-4452-ac06-b4c563f54175")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify bottom)
+		)
+	)
+	(property "Value" "RESAD1016W63L850D250B_30890021"
+		(at 0 1.885 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3613a2a2-9d74-4323-898b-ca3624e466bd")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify top)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a40cbaa8-52ed-4d6c-b7ad-0bc9150fb327")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "211311d0-5bc6-4029-b545-6e4d5071bdbf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -4.25 -1.25)
+		(end 4.25 -1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ca843ece-5aa3-4eb3-adc0-fec8ec781463")
+	)
+	(fp_line
+		(start -4.25 0)
+		(end -4.111 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ddddd7c6-d8de-4753-a62e-fb9145901d8d")
+	)
+	(fp_line
+		(start -4.25 1.25)
+		(end -4.25 -1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "82b44c79-ca49-45c0-a8a3-5eb296d2389e")
+	)
+	(fp_line
+		(start 4.25 -1.25)
+		(end 4.25 1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e6d1d09c-ba93-45a4-8fcc-896681ade22c")
+	)
+	(fp_line
+		(start 4.25 0)
+		(end 4.111 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "30ee5ebf-04dd-4cbb-83d1-1fa1eed4306b")
+	)
+	(fp_line
+		(start 4.25 1.25)
+		(end -4.25 1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "75314608-8ea4-4a22-a996-1187a23a864f")
+	)
+	(fp_line
+		(start -4.25 -1.25)
+		(end 4.25 -1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "064e960a-5b52-4651-b2c5-94f33a2334e4")
+	)
+	(fp_line
+		(start -4.25 1.25)
+		(end -4.25 -1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "668c01c3-dca5-4182-9677-f70dc656c7c0")
+	)
+	(fp_line
+		(start 4.25 -1.25)
+		(end 4.25 1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "862e7bb1-b489-4626-b486-bf7ed2a7ba4e")
+	)
+	(fp_line
+		(start 4.25 1.25)
+		(end -4.25 1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2e3fa6c1-63a2-4826-95c6-21bd843ad2a9")
+	)
+	(pad "1" thru_hole circle
+		(at -5.08 0)
+		(size 1.43 1.43)
+		(drill 0.83)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "54d15766-5523-4983-93c9-f37c168a15de")
+	)
+	(pad "2" thru_hole circle
+		(at 5.08 0)
+		(size 1.43 1.43)
+		(drill 0.83)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "abc99b3c-8992-4a43-8c15-d32d5e4fe163")
+	)
+	(embedded_fonts no)
+)
