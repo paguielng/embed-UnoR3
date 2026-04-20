@@ -1,16 +1,6 @@
 <table>
 <tr>
-<td><img src="images/favicon.png" width="190"></td>
-<td><pre style="text-align:center; margin:0;">
-    ___ _    _  __                _ 
-  / __| |_ (_)/ _|___ _  _ _ __ (_)
- | (__| ' \| |  _/ _ \ || | '  \| |
-  \___|_||_|_|_| \___/\_,_|_|_|_|_|
- | _ \ _ \_ _|  \/  | __|/ __ \    
- |  _/   /| || |\/| | _|/ | -) \   
- |_| |_|_\___|_|  |_|___\ ||\\ /   
-                         \____/    
-</pre></td>
+<td><img src="images/cover.png" width="190"></td>
 </tr>
 </table>
 
