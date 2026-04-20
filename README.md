@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td><img src="src/Feu circulation + piétons.png" width="920"></td>
+<td><img src="src/Feu circulation + piétons.png" width="950"></td>
 </tr>
 </table>
 
