@@ -1,0 +1,2 @@
+- Simulation de feu tricolore avec un passage pieton. 3. 4.
+- feu vert tricolore (voiture) sur broche 10, allumée pendant 3s. 5. feu
